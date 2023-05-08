@@ -11,6 +11,6 @@ void main() {
       '/home': (context) => Home(),
       '/choose-location': (context) => ChooseLocation()
     },
-    initialRoute: '/home',
+    initialRoute: '/',
   ));
 }
